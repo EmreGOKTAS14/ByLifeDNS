@@ -1,0 +1,10 @@
+C:\Users\emre\source\repos\network_dns\network_dns\bin\Debug\network_dns.exe.config
+C:\Users\emre\source\repos\network_dns\network_dns\bin\Debug\network_dns.exe
+C:\Users\emre\source\repos\network_dns\network_dns\bin\Debug\network_dns.pdb
+C:\Users\emre\source\repos\network_dns\network_dns\obj\Debug\network_dns.csprojAssemblyReference.cache
+C:\Users\emre\source\repos\network_dns\network_dns\obj\Debug\network_dns.Properties.Resources.resources
+C:\Users\emre\source\repos\network_dns\network_dns\obj\Debug\network_dns.csproj.GenerateResource.cache
+C:\Users\emre\source\repos\network_dns\network_dns\obj\Debug\network_dns.csproj.CoreCompileInputs.cache
+C:\Users\emre\source\repos\network_dns\network_dns\obj\Debug\network_dns.exe
+C:\Users\emre\source\repos\network_dns\network_dns\obj\Debug\network_dns.pdb
+C:\Users\emre\source\repos\network_dns\network_dns\obj\Debug\network_dns.DNS.resources
