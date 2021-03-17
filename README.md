@@ -1,0 +1,2 @@
+# ByLifeDNS
+DNS Sorgulama
